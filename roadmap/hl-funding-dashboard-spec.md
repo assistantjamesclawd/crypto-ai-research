@@ -141,9 +141,26 @@ Engine replays historical data through the strategy and outputs:
 
 | Tier | Price | Features |
 |------|-------|---------|
-| **Free** | $0 | 30s refresh, top 20 assets, 1 Telegram alert |
-| **Pro** | $15/mo | 5s refresh, all assets, unlimited alerts, historical charts, backtesting, paper trading |
+| **Free** | $0 | 30s refresh, top 20 assets, 1 Telegram alert, view paper trading leaderboard |
+| **Pro** | $15/mo | 5s refresh, all assets, unlimited alerts, historical charts, backtesting, paper trading, **daily P&L briefing pushed to Telegram every morning** |
 | **API** | $49/mo | REST API access for bot operators, 1s refresh, webhook alerts |
+
+### Pro Feature: Daily Morning Briefing (Telegram push)
+Every morning at user-configured time, Pro users receive a Telegram message:
+
+```
+📊 HLDesk Daily — Day 12
+
+🥇 Conservative BTC/ETH:  $10,312 (+3.12%)
+🥈 Diversified Top 20:    $10,198 (+1.98%)
+🥉 Aggressive Hunter:     $10,134 (+1.34%)
+💀 Negative Fade:         $9,891 (-1.09%)
+
+Your positions: BTC short $4,000 · collecting 0.043%/8h
+Funding environment: Mostly negative across HL today
+```
+
+This is the killer Pro feature — turns the dashboard from something you have to remember to check into something that comes to you.
 
 **Break-even: 20 Pro subscribers** (~$300 MRR covers all infra)
 
