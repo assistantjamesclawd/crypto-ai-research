@@ -116,3 +116,21 @@ This is the highest-upside first-mover play. Building the first analytics platfo
 ---
 
 *Confidence: High on platform data and tooling gaps. Medium on revenue estimates. HIP-4 analysis is speculative (testnet only as of research date).*
+
+---
+
+## Robinhood Chain — Watch List (Added Feb 19, 2026)
+
+**What it is:** Ethereum L2 (Arbitrum-based), testnet launched Feb 10 2026. Focus: tokenized real-world assets (stocks, ETFs on-chain). 23M+ Robinhood users = massive built-in distribution.
+
+**Why it matters:** First major consumer fintech launching their own chain. Targets retail investors, not crypto natives — completely different tooling category than Hyperliquid/DeFi.
+
+**Potential tool ideas:**
+- Tokenized stock price vs real stock arbitrage scanner
+- RWA portfolio tracker (bridges TradFi + on-chain view)
+- Yield comparison: tokenized stocks vs DeFi yields on same chain
+- Compliance-aware analytics (Robinhood embeds compliance into chain itself)
+
+**Timeline:** Testnet only, limited partners. Mainnet likely 6-12 months out.
+
+**Action:** Revisit Q3/Q4 2026 when mainnet approaches. First-mover window opens then.
